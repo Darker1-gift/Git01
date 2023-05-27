@@ -1,4 +1,4 @@
-µÚÒ»¸öGitÎÄ±¾.....
-Version1 GitÊ±¹âÊ±¹â´©Ëó»ú
-Version2 GItÊ±¹â´©Ëó»ú
-Version3 GitÊ±¹â´©Ëó»ú
+ç¬¬ä¸€ä¸ªGitæ–‡æœ¬.....
+Version1 Gitæ—¶å…‰æ—¶å…‰ç©¿æ¢­æœº
+Version2 GItæ—¶å…‰ç©¿æ¢­æœº
+Version3 Gitæ—¶å…‰ç©¿æ¢­æœº
